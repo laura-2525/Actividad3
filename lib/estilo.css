@@ -1,0 +1,14 @@
+.slider {
+    width: 95%;
+    margin: auto;
+}
+
+.slider ul{
+    display: flex;
+     padding: 0;
+}
+
+.slider li{
+    list-style: none;
+}
+
